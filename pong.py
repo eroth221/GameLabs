@@ -10,6 +10,7 @@ PADDLE_HEIGHT = 100
 BALL_SPEED = 10
 BALL_WIDTH_HEIGHT = 16
 
+
 pygame.init()
 screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
 pygame.display.set_caption("Pong")
